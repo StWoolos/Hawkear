@@ -1,0 +1,190 @@
+# Created by Octave 5.2.0, Tue May 12 19:41:02 2026 GMT <unknown@Tower-PC>
+# name: TouchDetails
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 20
+# name: piSourcefilename
+# type: sq_string
+# elements: 1
+# length: 75
+C:\Users\St Woolos\HawkEarFiles\Recordings\stw\stw.20260512-1940.s8t9.1.wav
+
+
+# name: piRingingdatetime
+# type: sq_string
+# elements: 1
+# length: 13
+20260512-1940
+
+
+# name: piTower
+# type: sq_string
+# elements: 1
+# length: 39
+Newport, Cathedral Church of St. Woolos
+
+
+# name: piRingingname
+# type: sq_string
+# elements: 1
+# length: 7
+Touch 1
+
+
+# name: piStdev
+# type: scalar
+40.25177090009597
+
+
+# name: piStdevpercentStr
+# type: sq_string
+# elements: 1
+# length: 4
+16.0
+
+
+# name: piStdevPct
+# type: scalar
+15.962572529507813
+
+
+# name: piTouchlength
+# type: scalar
+168
+
+
+# name: piPiecelength
+# type: scalar
+198
+
+
+# name: piTouchDuration
+# type: sq_string
+# elements: 1
+# length: 14
+5 mins 60 secs
+
+
+# name: piPieceDuration
+# type: sq_string
+# elements: 1
+# length: 13
+7 mins 5 secs
+
+
+# name: piMethod
+# type: sq_string
+# elements: 1
+# length: 15
+Stedman Triples
+
+
+# name: piPealSpeed
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: string
+# type: sq_string
+# elements: 1
+# length: 13
+2 hrs 60 mins
+
+
+# name: numeric
+# type: scalar
+10786865.174702885
+
+
+
+
+# name: piNBells
+# type: scalar
+8
+
+
+# name: piRowsBadInPiece
+# type: scalar
+19
+
+
+# name: piTouchFaults
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: count
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: hand
+# type: scalar
+81
+
+
+# name: back
+# type: scalar
+54
+
+
+# name: all
+# type: scalar
+135
+
+
+
+
+# name: mean
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: hand
+# type: scalar
+31.065183029671541
+
+
+# name: back
+# type: scalar
+27.092645730345275
+
+
+# name: all
+# type: scalar
+28.936645455714764
+
+
+
+
+
+
+# name: piExpstring
+# type: sq_string
+# elements: 0
+
+
+# name: piRungon
+# type: sq_string
+# elements: 1
+# length: 16
+the middle eight
+
+
+# name: piTenor
+# type: sq_string
+# elements: 1
+# length: 1
+9
+
+
+# name: piNumBellsRinging
+# type: sq_string
+# elements: 1
+# length: 1
+8
+
+
+
+
